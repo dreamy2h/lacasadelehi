@@ -1137,3 +1137,15 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* galería */
+.modalImgContainer {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.modalImgContainer .iconNav {
+  cursor: pointer;
+  height: 20px;
+}
